@@ -25,8 +25,7 @@ $ yarn add my-pages
 
 ```javascript
 const myPages = require('my-pages')
-const result = myPages('zce')
-// result => 'zce@zce.me'
+const result = myPages('kw09SpringYoung')
 ```
 
 ## API
@@ -46,7 +45,7 @@ const result = myPages('zce')
 
 - Type: `string`
 - Details: host string
-- Default: `'zce.me'`
+- Default: `'kw09SpringYoung.me'`
 
 ## Contributing
 

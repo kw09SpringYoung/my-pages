@@ -4,12 +4,12 @@
   "description": "Awesome node module",
   "keywords": [
     "my-pages",
-    "zce"
+    "kw09SpringYoung"
   ],
   "bin": "bin/my-pages.js",
-  "homepage": "https://github.com/zce/my-pages#readme",
+  "homepage": "https://github.com/kw09SpringYoung/my-pages#readme",
   "bugs": {
-    "url": "https://github.com/zce/my-pages/issues"
+    "url": "https://github.com/kw09SpringYoung/my-pages/issues"
   },
   "license": "MIT",
   "author": "杨春 <894584322@qq.com>",
@@ -24,7 +24,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/zce/my-pages.git"
+    "url": "git+https://github.com/kw09SpringYoung/my-pages.git"
   },
   "scripts": {
     "lint": "standard --fix",
